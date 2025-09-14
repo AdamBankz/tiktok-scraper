@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/052a0ccd-773d-4cb5-a1f0-5339190ae6da" alt="TikTok Data Extractor Logo" width="150" height="150"/>
 </p>
 
-# TikTok Data Extractor & Analytics
-
-Welcome to **TikTok Data Extractor**, your ultimate platform for accessing TikTok insights, video analytics, live stream data, and more — all in one place!
-
+<p align="center">
+# TikTok 
+Welcome to **Scrava**, your ultimate platform for accessing TikTok insights, video analytics, live stream data, and more — all in one place!
+</p>
 ---
 
 ## 🚀 Features
