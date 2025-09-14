@@ -1,2 +1,1 @@
-# tiktok-scraper
-A simple, no download scraper for social media platforms like TikTok. Just input parameters and parse useful data.
+<img width="256" height="256" alt="favi png" src="https://github.com/user-attachments/assets/052a0ccd-773d-4cb5-a1f0-5339190ae6da" />
