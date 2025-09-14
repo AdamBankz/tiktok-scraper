@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/052a0ccd-773d-4cb5-a1f0-5339190ae6da" alt="TikTok Data Extractor Logo" width="150" height="150"/>
-</p>
 
 <p align="center">
-# TikTok 
-Welcome to **Scrava**, your ultimate platform for accessing TikTok insights, video analytics, live stream data, and more — all in one place!
+  <img src="https://github.com/user-attachments/assets/052a0ccd-773d-4cb5-a1f0-5339190ae6da" alt="Scrava Logo" width="150" height="150"/>
 </p>
----
+
+<h1 align="center">https://scrava.com/</h1>
+
+<p align="center">
+  Welcome to <strong>Scrava</strong>, your ultimate platform for accessing TikTok insights, video analytics, live stream data, and more — all in one place!
+</p>
+
 
 ## 🚀 Features
 
@@ -55,23 +57,9 @@ Welcome to **Scrava**, your ultimate platform for accessing TikTok insights, vid
 
 ---
 
-## 📢 Stay Updated
-Follow us on social media to get the latest updates and feature releases!
-
----
-
-## 🛠️ Tech Stack (Optional)
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js / Python / PHP (depending on implementation)
-- **APIs & Libraries:** TikTok Scraping APIs, Data Analytics Libraries
-- **Database:** MySQL / MongoDB (for user data and analytics storage)
-
----
-
 ## 📄 Disclaimer
 This platform is intended for **personal and educational purposes only**. Please respect TikTok's terms of service and copyright rules when using downloaded content.
 
 ---
 
 ✨ **Start exploring TikTok like never before!**
-[Visit Website](#)
