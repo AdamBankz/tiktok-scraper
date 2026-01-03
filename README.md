@@ -1,9 +1,6 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/052a0ccd-773d-4cb5-a1f0-5339190ae6da" alt="Scrava Logo" width="150" height="150"/>
-</p>
+[![](https://github.com/user-attachments/assets/e186fce9-3d96-45dd-aeb0-f6c80b790c8a)](https://www.thordata.com/?ls=github&lk=tiktool)
 
-<h1 align="center">https://scrava.com/</h1>
 
 <p align="center">
   Welcome to <strong>Scrava</strong>, your ultimate platform for accessing TikTok insights, video analytics, live stream data, and more — all in one place!
